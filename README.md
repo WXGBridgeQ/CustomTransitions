@@ -1,0 +1,2 @@
+# CustomTransitions
+本项目为本人翻译AppCoda网站教程中的示例程序
